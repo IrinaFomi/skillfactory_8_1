@@ -1,4 +1,3 @@
-
 import numpy as np
 
 def random_predict(number:int=np.random.randint(1,101)) -> int:
@@ -27,7 +26,6 @@ def random_predict(number:int=np.random.randint(1,101)) -> int:
                 right_border = predict_number - 1
         else:
             break
-        
     return count
 
             

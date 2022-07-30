@@ -19,4 +19,4 @@ if __name__ == "__main__":
     # RUN
     result_score_func = score_of_predict()
     print(f'Min = {result_score_func[0]}, mean = {result_score_func[1]}, \
-        max = {result_score_func[2]}.')
+max = {result_score_func[2]}.')
